@@ -41,6 +41,10 @@ You also can get a variety of components in an Arduino starter kit if you plan o
 This video was inspired by [this Instructables Blog](http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
 
 
+### More info on how to use a photoresistor:
+[Using a Photocell by Adafruit](https://learn.adafruit.com/photocells/using-a-photocell)
+
+
 ### Links about NodeMCU Esp8266 Pin Mappings
 
 [Programming ESP8266 ESP-12E NodeMCU Using Arduino IDE - a Tutorial](http://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/)
